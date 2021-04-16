@@ -1,7 +1,9 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
-import Usuarios from './components/Usuarios'
-import User from './components/User'
+import Admin from './components/Admin'
+import Inicio from './components/Inicio'
+import Login from './components/Login'
+import Menu from './components/Menu'
 import {
   BrowserRouter as Router,
   Switch,
@@ -13,20 +15,19 @@ function App() {
   
 
   return (
+    <div className='container'>
     <Router>
-      <Link to='/'>Usuarios</Link>
-     
+    <Menu />  
 
     <Switch>
-      <Route exact path='/'>
-        <Usuarios />
-      </Route>
-      <Route path='/usuario/:id'>
-        <User />
-      </Route>
+      <Route exact path='/' component={Inicio}></Route>
+      <Route path='/admin/' component={Admin}></Route>
+      <Route path='/login/' component={Login}></Route>
+      
     </Switch> 
 
     </Router>
+    </div>
   );
 }
 
