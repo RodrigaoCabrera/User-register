@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rodrigocabrera19/UserRegister%E2%80%8B/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/main.9ca67779.chunk.js",
+    "main.js.map": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/main.9ca67779.chunk.js.map",
+    "runtime-main.js": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/runtime-main.5aa7f0ec.js",
+    "runtime-main.js.map": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/runtime-main.5aa7f0ec.js.map",
+    "static/css/2.658248ec.chunk.css": "/rodrigocabrera19/UserRegister%E2%80%8B/static/css/2.658248ec.chunk.css",
+    "static/js/2.e042ea32.chunk.js": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/2.e042ea32.chunk.js",
+    "static/js/2.e042ea32.chunk.js.map": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/2.e042ea32.chunk.js.map",
+    "index.html": "/rodrigocabrera19/UserRegister%E2%80%8B/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/rodrigocabrera19/UserRegister%E2%80%8B/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rodrigocabrera19/UserRegister%E2%80%8B/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e042ea32.chunk.js.LICENSE.txt": "/rodrigocabrera19/UserRegister%E2%80%8B/static/js/2.e042ea32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa7f0ec.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.e042ea32.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9ca67779.chunk.js"
+  ]
+}
